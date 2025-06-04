@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'EB - Exército Brasileiro',
     'Dentro do ambitô militar, pode se usar abreviações?',
-    'Não, inclusive a quebra desta regra, resunta em punições, ou até exilio..'
+    'Não, inclusive a quebra desta regra, resunta em punições.'
 )
 
 criaCartao(
