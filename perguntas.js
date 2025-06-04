@@ -1,7 +1,13 @@
 criaCartao(
     'EB - Exército Brasileiro',
-    'Quala a patente minima para poder realizar recrutamento?',
+    'Qual a patente minima para poder realizar recrutamento?',
     'Cabo, ou superiores.'
+)
+
+criaCartao(
+    'EB - Exército Brasileiro',
+    'Dentro do ambitô militar, pode se usar abreviações?',
+    'Não, inclusive a quebra desta regra, resunta em punições, ou até exilio..'
 )
 
 criaCartao(
