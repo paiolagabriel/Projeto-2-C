@@ -1,23 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'EB - Exército Brasileiro',
+    'Quala a patente minima para poder realizar recrutamento?',
+    'Cabo, ou superiores.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'BPE - Batalhão de Polícia do Exército',
+    'Quem é responsável pela unidade?',
+    'Normalmente e o Comandante ou SubComandante, mas pode ocorrer caso que o Comando possa estar com o General de Divisão da unidade'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'ESA - Escola de Sargentos das Armas',
+    'Quais baterias você pode encontrar na ESA?',
+    'Normalmento você pode encontrar de 12 a 15, mas, as principais são 5, Comunicação, Engenharia, Artilharia, Infantaria, Cavalaria.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'SGEx - Secretaria Geral do Exército',
+    'Qual é o cargo máximo?',
+    'O cargo máximo é o Secretário Geral.'
+)
+
+criaCartao(
+    'CIOU - Centro de Instruções de Operações Urbanas',
+    'Qual função que desempenha as aréa de Surpervisão?',
+    'Os responsáveis são o [Coor] Coordenador, e [Sup] Supervisor, que estão integrados como [Coor] Coordenação.'
 )
