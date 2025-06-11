@@ -50,6 +50,7 @@ criaCartao(
     'EB - Exército Brasileiro',
     'O que é PPS! ?',
     'Permissão para falar.'
+)
 
 criaCartao(
     'EB - Exército Brasileiro',
